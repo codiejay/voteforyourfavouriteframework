@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/voteforyourfavouriteframework/static/css/main.da6a2b41.chunk.css",
+    "main.js": "/voteforyourfavouriteframework/static/js/main.4b61dcfd.chunk.js",
+    "main.js.map": "/voteforyourfavouriteframework/static/js/main.4b61dcfd.chunk.js.map",
+    "runtime~main.js": "/voteforyourfavouriteframework/static/js/runtime~main.bb5eb468.js",
+    "runtime~main.js.map": "/voteforyourfavouriteframework/static/js/runtime~main.bb5eb468.js.map",
+    "static/js/2.a928435b.chunk.js": "/voteforyourfavouriteframework/static/js/2.a928435b.chunk.js",
+    "static/js/2.a928435b.chunk.js.map": "/voteforyourfavouriteframework/static/js/2.a928435b.chunk.js.map",
+    "index.html": "/voteforyourfavouriteframework/index.html",
+    "precache-manifest.91618a836eed34ad28121480f288e9d9.js": "/voteforyourfavouriteframework/precache-manifest.91618a836eed34ad28121480f288e9d9.js",
+    "service-worker.js": "/voteforyourfavouriteframework/service-worker.js",
+    "static/css/main.da6a2b41.chunk.css.map": "/voteforyourfavouriteframework/static/css/main.da6a2b41.chunk.css.map",
+    "static/media/acme.wav": "/voteforyourfavouriteframework/static/media/acme.4ee99cd2.wav",
+    "static/media/react.svg": "/voteforyourfavouriteframework/static/media/react.c10c6d6d.svg",
+    "static/media/spinner.gif": "/voteforyourfavouriteframework/static/media/spinner.914933fe.gif",
+    "static/media/vue.svg": "/voteforyourfavouriteframework/static/media/vue.c27f74e4.svg"
+  }
+}
